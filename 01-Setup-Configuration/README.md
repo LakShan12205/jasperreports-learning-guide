@@ -17,10 +17,15 @@ By the end of this section, you will be able to:
 Software --------------------- ---------->   Purpose 
 
 | Jaspersoft Studio 6.20.6  ------------->   Design and develop reports |
+
 | XAMPP---------------------------------->   Local development environment |
+
 | Apache -------------------------------->   Web server for phpMyAdmin |
+
 | MariaDB ------------------------------->   Database server |
+
 | phpMyAdmin ---------------------------->   Manage databases through a browser |
+
 | MariaDB ------------------------------->   Connector/J  JDBC driver for JasperReports |
 
 ## Setup Lessons
